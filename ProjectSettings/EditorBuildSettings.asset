@@ -1,0 +1,125 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MenuAwal.unity
+    guid: 24779dc05c0af2541b8b5f572719756e
+  - enabled: 1
+    path: Assets/Scenes/Materi.unity
+    guid: f5ca4b6772a7eb542870725163b186a3
+  - enabled: 1
+    path: Assets/Scenes/Cecer.unity
+    guid: 26b067e6d42e4584e9fe254c2c52bfa7
+  - enabled: 1
+    path: Assets/Scenes/Cerak.unity
+    guid: 8fa4b32903e8dde4f9d9eaeb6cd35d08
+  - enabled: 1
+    path: Assets/Scenes/Cerita rakyat/CRbali.unity
+    guid: da3a32ea4bc1ba8438fbc6d2fc98d7e6
+  - enabled: 1
+    path: Assets/Scenes/Cerita rakyat/CRjawa.unity
+    guid: 87f701937d6fe8742b4610adadab6526
+  - enabled: 1
+    path: Assets/Scenes/Cerita rakyat/CRkalimantan.unity
+    guid: ff148e55d056ef740ad3db46c90a4330
+  - enabled: 1
+    path: Assets/Scenes/Cerita rakyat/CRntb.unity
+    guid: cd2c89a647b09fd49a0558132786d7b6
+  - enabled: 1
+    path: Assets/Scenes/Cerita rakyat/CRntt.unity
+    guid: c8651e8387ff63d479b92b8ba9460f1e
+  - enabled: 1
+    path: Assets/Scenes/Cerita rakyat/CRpapua.unity
+    guid: 5792e6ffbb3c0d54e8a3b844d2bf69df
+  - enabled: 1
+    path: Assets/Scenes/Cerita rakyat/CRsulawesi.unity
+    guid: 0f108411c648099468258ceda441efe5
+  - enabled: 1
+    path: Assets/Scenes/Cerita rakyat/CRsumatra.unity
+    guid: 61061c86277bc87418270f6b0351b71b
+  - enabled: 1
+    path: Assets/Scenes/CCPulau/CCBali.unity
+    guid: 4df4a7beff01dd04686e7ce0b0bbadb5
+  - enabled: 1
+    path: Assets/Scenes/CCPulau/CCJawa.unity
+    guid: 0ffba4611284df246bccf59628a20366
+  - enabled: 1
+    path: Assets/Scenes/CCPulau/CCKalimantan.unity
+    guid: b3e1d085c8a8b2d42bb0dc9d3a88b427
+  - enabled: 1
+    path: Assets/Scenes/CCPulau/CCMaluku.unity
+    guid: aec1572db376b64418eedbeeec98a59d
+  - enabled: 1
+    path: Assets/Scenes/CCPulau/CCNTB.unity
+    guid: c091b792c13ab964bbd45573e46b7a0c
+  - enabled: 1
+    path: Assets/Scenes/CCPulau/CCNTT.unity
+    guid: eb20fa810bda3e24a85c43bfdecdf51d
+  - enabled: 1
+    path: Assets/Scenes/CCPulau/CCPapua.unity
+    guid: 5487a5d9c0cc4fc46b99aca9ac581af2
+  - enabled: 1
+    path: Assets/Scenes/CCPulau/CCSulawesi.unity
+    guid: 8d76be6c1e2c30b4a99ad10f774344ec
+  - enabled: 1
+    path: Assets/Scenes/Soal/SoalBali.unity
+    guid: 0ef29f9697344914bb9cc7ee1d76834c
+  - enabled: 1
+    path: Assets/Scenes/Soal/SoalJabar.unity
+    guid: 8dcb6b7d50700a849a83c056bee4767a
+  - enabled: 1
+    path: Assets/Scenes/Soal/SoalSulBar.unity
+    guid: b8f638022545a5f439f6747a22dd9381
+  - enabled: 1
+    path: Assets/Scenes/Soal/SoalSulTengSelTengg.unity
+    guid: 4f9732252d75f6c46b900b3f4cbd4a9b
+  - enabled: 1
+    path: Assets/Scenes/Soal/SoalSulUt.unity
+    guid: 01254808997824440bf5b19f64ccb089
+  - enabled: 1
+    path: Assets/Scenes/Soal/SoalSumsel.unity
+    guid: 8de21c752e0c41246b1db9797ffe6045
+  - enabled: 1
+    path: Assets/Scenes/Soal/SoalSumut.unity
+    guid: e30a499b822d2994690d5d28de92d9a8
+  - enabled: 1
+    path: Assets/Scenes/Soal/SoalKalBar.unity
+    guid: 1a5de107729de0248ad0bae37bc2e047
+  - enabled: 1
+    path: Assets/Scenes/Soal/SoalJatim.unity
+    guid: 691fff0c665dc70478a9bce71c9303d7
+  - enabled: 1
+    path: Assets/Scenes/Soal/SoalJateng.unity
+    guid: eae6eb068daa1e94086321f628db42e1
+  - enabled: 1
+    path: Assets/Scenes/Soal/SoalKalTengSel.unity
+    guid: 4085e6c1ad481df4dbe51edba2d8af79
+  - enabled: 1
+    path: Assets/Scenes/Soal/SoalKalTim.unity
+    guid: 038ddd14f09d4364ea03970dbadb9c8e
+  - enabled: 1
+    path: Assets/Scenes/Soal/SoalMaluku.unity
+    guid: 90d77bd9a7107624fa2210308a816ba3
+  - enabled: 1
+    path: Assets/Scenes/Soal/SoalNTB.unity
+    guid: 0a87599bfe156a44199b2390e8ef3c69
+  - enabled: 1
+    path: Assets/Scenes/Soal/SoalNTT.unity
+    guid: 958a988e55dcc7a4b9fb3d65dad7af9f
+  - enabled: 1
+    path: Assets/Scenes/Soal/SoalPapua.unity
+    guid: be97fe8c90f77704886e897358c1427a
+  - enabled: 1
+    path: Assets/Scenes/Soal/SoalSubar.unity
+    guid: c8023953fdde9f94ea59db669df1e360
+  - enabled: 1
+    path: Assets/Scenes/CCPulau/CCSumatra.unity
+    guid: 7d0ec86f3a11bb64781824c55c38a2e4
+  - enabled: 1
+    path: Assets/Scenes/CermatMenu.unity
+    guid: 7622046badd15f84da6a849fc0d936aa
+  m_configObjects: {}
